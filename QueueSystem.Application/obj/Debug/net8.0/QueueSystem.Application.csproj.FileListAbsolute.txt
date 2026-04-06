@@ -1,0 +1,17 @@
+C:\Users\smohammad\source\repos\QueueSystem\QueueSystem.Application\bin\Debug\net8.0\QueueSystem.Application.deps.json
+C:\Users\smohammad\source\repos\QueueSystem\QueueSystem.Application\bin\Debug\net8.0\QueueSystem.Application.runtimeconfig.json
+C:\Users\smohammad\source\repos\QueueSystem\QueueSystem.Application\bin\Debug\net8.0\QueueSystem.Application.dll
+C:\Users\smohammad\source\repos\QueueSystem\QueueSystem.Application\bin\Debug\net8.0\QueueSystem.Application.pdb
+C:\Users\smohammad\source\repos\QueueSystem\QueueSystem.Application\bin\Debug\net8.0\QueueSystem.Infrastructure.dll
+C:\Users\smohammad\source\repos\QueueSystem\QueueSystem.Application\bin\Debug\net8.0\QueueSystem.Infrastructure.pdb
+C:\Users\smohammad\source\repos\QueueSystem\QueueSystem.Application\obj\Debug\net8.0\QueueSystem.Application.csproj.AssemblyReference.cache
+C:\Users\smohammad\source\repos\QueueSystem\QueueSystem.Application\obj\Debug\net8.0\QueueSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smohammad\source\repos\QueueSystem\QueueSystem.Application\obj\Debug\net8.0\QueueSystem.Application.AssemblyInfoInputs.cache
+C:\Users\smohammad\source\repos\QueueSystem\QueueSystem.Application\obj\Debug\net8.0\QueueSystem.Application.AssemblyInfo.cs
+C:\Users\smohammad\source\repos\QueueSystem\QueueSystem.Application\obj\Debug\net8.0\QueueSystem.Application.csproj.CoreCompileInputs.cache
+C:\Users\smohammad\source\repos\QueueSystem\QueueSystem.Application\obj\Debug\net8.0\QueueSys.3F1A3F48.Up2Date
+C:\Users\smohammad\source\repos\QueueSystem\QueueSystem.Application\obj\Debug\net8.0\QueueSystem.Application.dll
+C:\Users\smohammad\source\repos\QueueSystem\QueueSystem.Application\obj\Debug\net8.0\refint\QueueSystem.Application.dll
+C:\Users\smohammad\source\repos\QueueSystem\QueueSystem.Application\obj\Debug\net8.0\QueueSystem.Application.pdb
+C:\Users\smohammad\source\repos\QueueSystem\QueueSystem.Application\obj\Debug\net8.0\QueueSystem.Application.genruntimeconfig.cache
+C:\Users\smohammad\source\repos\QueueSystem\QueueSystem.Application\obj\Debug\net8.0\ref\QueueSystem.Application.dll
