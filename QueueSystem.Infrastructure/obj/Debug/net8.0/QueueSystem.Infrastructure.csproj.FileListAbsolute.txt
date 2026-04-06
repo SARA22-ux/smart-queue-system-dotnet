@@ -1,0 +1,14 @@
+C:\Users\smohammad\source\repos\QueueSystem\QueueSystem.Infrastructure\bin\Debug\net8.0\QueueSystem.Infrastructure.deps.json
+C:\Users\smohammad\source\repos\QueueSystem\QueueSystem.Infrastructure\bin\Debug\net8.0\QueueSystem.Infrastructure.runtimeconfig.json
+C:\Users\smohammad\source\repos\QueueSystem\QueueSystem.Infrastructure\bin\Debug\net8.0\QueueSystem.Infrastructure.dll
+C:\Users\smohammad\source\repos\QueueSystem\QueueSystem.Infrastructure\bin\Debug\net8.0\QueueSystem.Infrastructure.pdb
+C:\Users\smohammad\source\repos\QueueSystem\QueueSystem.Infrastructure\obj\Debug\net8.0\QueueSystem.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\smohammad\source\repos\QueueSystem\QueueSystem.Infrastructure\obj\Debug\net8.0\QueueSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smohammad\source\repos\QueueSystem\QueueSystem.Infrastructure\obj\Debug\net8.0\QueueSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\smohammad\source\repos\QueueSystem\QueueSystem.Infrastructure\obj\Debug\net8.0\QueueSystem.Infrastructure.AssemblyInfo.cs
+C:\Users\smohammad\source\repos\QueueSystem\QueueSystem.Infrastructure\obj\Debug\net8.0\QueueSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\smohammad\source\repos\QueueSystem\QueueSystem.Infrastructure\obj\Debug\net8.0\QueueSystem.Infrastructure.dll
+C:\Users\smohammad\source\repos\QueueSystem\QueueSystem.Infrastructure\obj\Debug\net8.0\refint\QueueSystem.Infrastructure.dll
+C:\Users\smohammad\source\repos\QueueSystem\QueueSystem.Infrastructure\obj\Debug\net8.0\QueueSystem.Infrastructure.pdb
+C:\Users\smohammad\source\repos\QueueSystem\QueueSystem.Infrastructure\obj\Debug\net8.0\QueueSystem.Infrastructure.genruntimeconfig.cache
+C:\Users\smohammad\source\repos\QueueSystem\QueueSystem.Infrastructure\obj\Debug\net8.0\ref\QueueSystem.Infrastructure.dll
