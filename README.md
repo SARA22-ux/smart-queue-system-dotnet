@@ -22,7 +22,7 @@ A modern queue management system built with ASP.NET Core.
 - Clean Architecture
 - SQL Server
 
-## 📷 Demo (Coming Soon)
+
 
 ## 📡 API Endpoints
 
@@ -38,5 +38,3 @@ This system can be sold as:
 - One-time license
 - Custom integration for companies
 
-## 📞 Contact
-Available for freelance & custom solutions
